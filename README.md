@@ -1,9 +1,8 @@
-# Networkwalks-B083D-Week-2-cybersecurity-lab-setup
+# <p align="center"> <img width="34" height="38" alt="Padlock" src="https://github.com/user-attachments/assets/bc9aaa5f-d088-40dc-8ff8-814e4bb62f82" /> Networkwalks-B083D-Week-2-cybersecurity-lab-setup
   
-FOOTPRINTING &amp; RECONNAISSANCE ATTACKS WITH MULTIPLE KALI TOOLS
-<br>
+# FOOTPRINTING &amp; RECONNAISSANCE ATTACKS WITH MULTIPLE KALI TOOLS
 # PENETRATION TESTING REPORT
-### Footprinting & Network Scanning Phases
+#### Footprinting & Network Scanning Phases
 
 **W2-PM-FINAL  |  CYBERSECURITY  |  NETWORKWALKS**
 
@@ -70,7 +69,7 @@ I first used the Windows `ipconfig` command to identify my local IP address and 
 The example results provided in the practical identified four live hosts:
 
 - `10.0.0.1`
-- `10.0.0.2
+- `10.0.0.2`
 
 The example results also included four MAC addresses.
 
@@ -165,4 +164,14 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 <img width="1920" height="1044" alt="Screenshot 2026-09-15 163256" src="https://github.com/user-attachments/assets/a5f295c4-5072-49bd-85b0-f488afbd27ca" />
 
 
--End-
+# 👤 Author
+**Rahul Rathore**
+
+Cybersecurity Starter
+
+LinkedIn: www.linkedin.com/in/rahul-rathore91
+
+# Project Imformation
+
+**Program Name:** Cybersecurity at Networkwalks | **Week: 02 | Project:** Cybersecurity & PENETRATION TESTING REPORT | 
+**Repository:** GitHub
