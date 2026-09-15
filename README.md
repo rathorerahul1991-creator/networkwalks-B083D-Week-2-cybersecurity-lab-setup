@@ -70,9 +70,7 @@ I first used the Windows `ipconfig` command to identify my local IP address and 
 The example results provided in the practical identified four live hosts:
 
 - `10.0.0.1`
-- `10.0.0.4`
-- `10.0.0.19`
-- `10.0.0.5`
+- `10.0.0.2
 
 The example results also included four MAC addresses.
 
@@ -161,5 +159,10 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 <img width="1920" height="1080" alt="Screenshot 2026-09-15 160906" src="https://github.com/user-attachments/assets/7a6e9670-8d7c-4836-bcea-f605e72d2764" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-09-15 161021" src="https://github.com/user-attachments/assets/cf6e4f0e-60ab-49d0-b845-6e625201df3d" />
+
+<img width="1920" height="1044" alt="Screenshot 2026-09-15 163705" src="https://github.com/user-attachments/assets/3a4bffc0-54df-4c73-9d3c-2e695627966d" />
+
+<img width="1920" height="1044" alt="Screenshot 2026-09-15 163256" src="https://github.com/user-attachments/assets/a5f295c4-5072-49bd-85b0-f488afbd27ca" />
+
 
 -End-
