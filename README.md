@@ -1,4 +1,18 @@
 # <p align="center"> <img width="34" height="38" alt="Padlock" src="https://github.com/user-attachments/assets/bc9aaa5f-d088-40dc-8ff8-814e4bb62f82" /> Networkwalks-B083D-Week-2-cybersecurity-lab-setup
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.2-0070C0?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Linux-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-238F89?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Skill-Virtualization-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-404040?style=flat-square&labelColor=C00000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+</p>
+
   
 # FOOTPRINTING &amp; RECONNAISSANCE ATTACKS WITH MULTIPLE KALI TOOLS
 # PENETRATION TESTING REPORT
@@ -169,9 +183,12 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 Cybersecurity Starter
 
-LinkedIn: www.linkedin.com/in/rahul-rathore91
+Cybersecurity Professional B083
 
-# Project Imformation
+LinkedIn: www.linkedin.com/in/rahul-rathore91
+<br>
+
+# 📌Project Imformation
 
 **Program Name:** Cybersecurity at Networkwalks | **Week: 02 | Project:** Cybersecurity & PENETRATION TESTING REPORT | 
 **Repository:** GitHub
