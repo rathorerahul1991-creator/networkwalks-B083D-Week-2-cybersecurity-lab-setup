@@ -1,0 +1,2 @@
+# networkwalks-B083D-Week-2-cybersecurity-lab-setup
+FOOTPRINTING &amp; RECONNAISSANCE ATTACKS WITH MULTIPLE KALI TOOLS
